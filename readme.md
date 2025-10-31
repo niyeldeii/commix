@@ -25,20 +25,20 @@ Built by [uthman](https://github.com/codetesla51)
 ### Quick Install (Global)
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/codetesla51/Commix/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/codetesla51/commix/main/install.sh | bash
 ```
 
 ### Manual Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/codetesla51/Commix.git
-cd Commix
+git clone https://github.com/codetesla51/commix.git
+cd commix
 ```
 
 2. Make the script executable:
 ```bash
-chmod +x commix.sh
+chmod +x commit.sh
 ```
 
 3. Run the installer:
